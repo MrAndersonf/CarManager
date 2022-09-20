@@ -1,0 +1,26 @@
+declare global {
+  namespace NodeJS {
+    interface ProcessEnv {
+      NEXT_PUBLIC_TYPE: string;
+      NEXT_PUBLIC_PROJECT_ID: string;
+      NEXT_PUBLIC_PRIVATE_KEY_ID: string;
+      NEXT_PUBLIC_PRIVATE_KEY: string;
+      NEXT_PUBLIC_CLIENT_EMAIL: string;
+      NEXT_PUBLIC_CLIENT_ID: string;
+      NEXT_PUBLIC_AUTH_URI: string;
+      NEXT_PUBLIC_TOKEN_URI: string;
+      NEXT_PUBLIC_AUTH_PROVIDER_X509_CERT_URL: string;
+      NEXT_PUBLIC_CLIENT_X509_CERT_URL: string;
+      NEXT_PUBLIC_FIREBASE_API_KEY: string;
+      NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN: string;
+      NEXT_PUBLIC_FIREBASE_DATABASE_URL: string;
+      NEXT_PUBLIC_FIREBASE_PROJECT_ID: string;
+      NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET: string;
+      NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID: string;
+      NEXT_PUBLIC_FIREBASE_APP_ID: string;
+      NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID: string;
+    }
+  }
+}
+
+export {};

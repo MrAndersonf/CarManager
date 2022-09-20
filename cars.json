@@ -1,0 +1,802 @@
+[
+  {
+    "_id": "62e2c9dcf8037d001c59e748",
+    "title": "Corolla",
+    "brand": "Toyota Premium 2B",
+    "price": "70000",
+    "age": 2016,
+    "__v": 0
+  },
+  {
+    "_id": "62e04accf8037d001c59e5d9",
+    "title": "Corolla",
+    "brand": "Toyota Premium 3B",
+    "price": "70000",
+    "age": 2016,
+    "__v": 0
+  },
+  {
+    "_id": "62e04accf8037d001c59e999",
+    "title": "Corolla",
+    "brand": "Toyota Premium 4B",
+    "price": "70000",
+    "age": 2016,
+    "__v": 0
+  },
+  {
+    "_id": "62e2d712f8037d001c59e753",
+    "title": "Scania",
+    "brand": "113H",
+    "price": "5000",
+    "age": 63,
+    "__v": 0
+  },
+  {
+    "_id": "62e2d740f8037d001c59e754",
+    "title": "113H",
+    "brand": "Scania",
+    "price": "5000",
+    "age": 63,
+    "__v": 0
+  },
+  {
+    "_id": "62e2d8dcf8037d001c59e75d",
+    "price": "25000",
+    "title": "Fusca",
+    "brand": "Volkswagem",
+    "age": 20,
+    "__v": 0
+  },
+  {
+    "_id": "62e2d958f8037d001c59e75e",
+    "price": "25000",
+    "title": "Fusca",
+    "brand": "Volkswagem",
+    "age": 20,
+    "__v": 0
+  },
+  {
+    "_id": "62e2d970f8037d001c59e75f",
+    "price": "25000",
+    "title": "Fusca",
+    "brand": "Volkswagem",
+    "age": 20,
+    "__v": 0
+  },
+  {
+    "_id": "62e327c1f8037d001c59e7a9",
+    "title": "Cavalo Ligeiro",
+    "brand": "Mangalarga",
+    "price": "10.000",
+    "age": 5,
+    "__v": 0
+  },
+  {
+    "_id": "22e17249f8037d001c59e64f",
+    "title": "Mustang",
+    "brand": "Ford",
+    "price": "500000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "24e17249f8037d111c59e64f",
+    "title": "Mustang",
+    "brand": "Ford",
+    "price": "500000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "65d17249f8067d001c59e63e",
+    "title": "Supra",
+    "brand": "Toyota",
+    "price": "1500000",
+    "age": 28,
+    "__v": 0
+  },
+  {
+    "_id": "62e0409af8037d001c59e5d1",
+    "title": "Supra",
+    "brand": "Toyota",
+    "price": "1500000",
+    "age": 1994,
+    "__v": 0
+  },
+  {
+    "_id": "24e17249f8037d111c59e63a",
+    "title": "Mustang",
+    "brand": "Ford",
+    "price": "500000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e0409af8037d001c59e5d2",
+    "title": "Mustang",
+    "brand": "Ford",
+    "price": "500000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e0409af8037d001c59e5a2",
+    "title": "Mustang",
+    "brand": "Ford",
+    "price": "500000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e0409af8088d001c59e5d1",
+    "title": "Supra",
+    "brand": "Toyota",
+    "price": "1500000",
+    "age": 1994,
+    "__v": 0
+  },
+  {
+    "_id": "62e0409af8087d001c59e5d1",
+    "title": "Mustang",
+    "brand": "Ford",
+    "price": "500000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e0409af8077d001c59e5d1",
+    "title": "Mustang",
+    "brand": "Ford",
+    "price": "500000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e0409af8074d001c59e5d1",
+    "title": "Mustang",
+    "brand": "Ford",
+    "price": "500000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e0409af8073d001c59e5d1",
+    "title": "Mustang",
+    "brand": "Ford",
+    "price": "500000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e0409af8071d001c59e5d1",
+    "title": "Mustang",
+    "brand": "Ford",
+    "price": "500000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e0409af8070d001c59e5d1",
+    "title": "Mustang",
+    "brand": "Ford",
+    "price": "500000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e40966f8037d001c59e86b",
+    "title": "Carro esportivo",
+    "brand": "Ferrari",
+    "price": "55.000",
+    "age": 2010,
+    "__v": 0
+  },
+  {
+    "_id": "62e4097ef8037d001c59e86c",
+    "title": "Carro esportivo",
+    "brand": "Ferrari",
+    "price": "55.000",
+    "age": 2010,
+    "__v": 0
+  },
+  {
+    "_id": "62e4098bf8037d001c59e86d",
+    "title": "Carro esportivo",
+    "brand": "Ferrari",
+    "price": "55.000",
+    "age": 2010,
+    "__v": 0
+  },
+  {
+    "_id": "62e4098df8037d001c59e86e",
+    "title": "Carro esportivo",
+    "brand": "Ferrari",
+    "price": "55.000",
+    "age": 2010,
+    "__v": 0
+  },
+  {
+    "_id": "62e4098ef8037d001c59e86f",
+    "title": "Carro esportivo",
+    "brand": "Ferrari",
+    "price": "55.000",
+    "age": 2010,
+    "__v": 0
+  },
+  {
+    "_id": "62e40a2cf8037d001c59e870",
+    "title": "Carro esportivo",
+    "brand": "Ferrari",
+    "price": "55.000",
+    "age": 2010,
+    "__v": 0
+  },
+  {
+    "_id": "62e40ab3f8037d001c59e871",
+    "title": "Carro esportivo",
+    "brand": "Ferrari",
+    "price": "55.000",
+    "age": 2010,
+    "__v": 0
+  },
+  {
+    "_id": "62e40d68f8037d001c59e872",
+    "title": "Carro esportivo",
+    "brand": "Ferrari",
+    "price": "55.000",
+    "age": 2010,
+    "__v": 0
+  },
+  {
+    "_id": "62e40d72f8037d001c59e873",
+    "title": "Carro esportivo",
+    "brand": "Lamborghini",
+    "price": "55.000",
+    "age": 2010,
+    "__v": 0
+  },
+  {
+    "_id": "62e40e61f8037d001c59e874",
+    "title": "Carro esportivo",
+    "brand": "Bugatti",
+    "price": "55.000",
+    "age": 2010,
+    "__v": 0
+  },
+  {
+    "_id": "62e40f0df8037d001c59e875",
+    "title": "Carro esportivo",
+    "brand": "Fusca",
+    "price": "55.000",
+    "age": 2010,
+    "__v": 0
+  },
+  {
+    "_id": "62e415abf8037d001c59e877",
+    "title": "Carro esportivo",
+    "brand": "BMW",
+    "price": "55.000",
+    "age": 2010,
+    "__v": 0
+  },
+  {
+    "_id": "62e415c9f8037d001c59e878",
+    "title": "Carro esportivo",
+    "brand": "BMW",
+    "price": "55.000",
+    "age": 2010,
+    "__v": 0
+  },
+  {
+    "_id": "62e41b88f8037d001c59e87b",
+    "title": "Carro SUV",
+    "brand": "ASX",
+    "price": "10.00",
+    "age": 10,
+    "__v": 0
+  },
+  {
+    "_id": "62e41bfef8037d001c59e87c",
+    "title": "Carro SUV",
+    "brand": "ASX-Sport",
+    "price": "15.00",
+    "age": 2014,
+    "__v": 0
+  },
+  {
+    "_id": "62e423f0f8037d001c59e87d",
+    "title": "Carro esportivo",
+    "brand": "Ferrari gt",
+    "price": "1.000.000.00",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e428a8f8037d001c59e87e",
+    "title": "Carro esportivo",
+    "brand": "Corsa sedan",
+    "price": "1.000.000.00",
+    "age": 2033,
+    "__v": 0
+  },
+  {
+    "_id": "62e42aeef8037d001c59e87f",
+    "title": "Camaro",
+    "brand": "Chevrolet",
+    "price": "80000",
+    "age": 3,
+    "__v": 0
+  },
+  {
+    "_id": "62e42b1ef8037d001c59e880",
+    "title": "Impala",
+    "brand": "Chevrolet",
+    "price": "65000",
+    "age": 2,
+    "__v": 0
+  },
+  {
+    "_id": "62e42fc1f8037d001c59e887",
+    "title": "Carro esportivo",
+    "brand": "Corsa sedan",
+    "price": "1.000.000.00",
+    "age": 2033,
+    "__v": 0
+  },
+  {
+    "_id": "55e0409af8070d001c59e5d1",
+    "title": "Mustang",
+    "brand": "Ford",
+    "price": "500000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "34e0409af8070d001c66e5d1",
+    "title": "Mustang",
+    "brand": "Ford",
+    "price": "500000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "22e1309af8070d001c66e5d1",
+    "title": "Mustang",
+    "brand": "Ford",
+    "price": "500000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "33e1309af8070d001c66e5d1",
+    "title": "Mustang",
+    "brand": "Ford",
+    "price": "500000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "21e0409af8037d001c59e5d7",
+    "title": "Compass",
+    "brand": "Jeep",
+    "price": "100000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "22e0409af8037d001c59e5d7",
+    "title": "Compass",
+    "brand": "Jeep",
+    "price": "100000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "24e0409af8037d001c59e5d7",
+    "title": "Compass",
+    "brand": "Jeep",
+    "price": "100000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "27e0409af8037d001c59e5d7",
+    "title": "Compass",
+    "brand": "Jeep",
+    "price": "100000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "29e0409af8037d001c59e5d7",
+    "title": "Compass",
+    "brand": "Jeep",
+    "price": "100000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e4b67bf8037d001c59e92b",
+    "title": "Uno",
+    "brand": "Fiat",
+    "price": "20000",
+    "age": 15,
+    "__v": 0
+  },
+  {
+    "_id": "62e4b67bf8037d001c59e52b",
+    "title": "Uno",
+    "brand": "Fiat",
+    "price": "20000",
+    "age": 15,
+    "__v": 0
+  },
+  {
+    "_id": "62e4b7b3f8037d001c59e92e",
+    "title": "Uno",
+    "brand": "Fiat",
+    "price": "56000",
+    "age": 15,
+    "__v": 0
+  },
+  {
+    "_id": "62e4b815f8037d001c59e92f",
+    "title": "Uno",
+    "brand": "Fiat",
+    "price": "56000",
+    "age": 15,
+    "__v": 0
+  },
+  {
+    "_id": "62e4b81bf8037d001c59e930",
+    "title": "Uno",
+    "brand": "Fiat",
+    "price": "56000",
+    "age": 15,
+    "__v": 0
+  },
+  {
+    "_id": "62e4b85ff8037d001c59e932",
+    "title": "Uno",
+    "brand": "Fiat",
+    "price": "56000",
+    "age": 15,
+    "__v": 0
+  },
+  {
+    "_id": "62e4ba09f8037d001c59e933",
+    "title": "Uno",
+    "brand": "Fiat",
+    "price": "56000",
+    "age": 15,
+    "__v": 0
+  },
+  {
+    "_id": "62e4ba13f8037d001c59e934",
+    "title": "Uno",
+    "brand": "Fiat",
+    "price": "57000",
+    "age": 15,
+    "__v": 0
+  },
+  {
+    "_id": "62e4c66df8037d001c59e935",
+    "title": "Uno",
+    "brand": "Fiat",
+    "price": "57000",
+    "age": 15,
+    "__v": 0
+  },
+  {
+    "_id": "62e4c7d5f8037d001c59e936",
+    "title": "Uno",
+    "brand": "Fiat",
+    "price": "57000",
+    "age": 15,
+    "__v": 0
+  },
+  {
+    "_id": "62e4c7e4f8037d001c59e937",
+    "title": "Uno",
+    "brand": "Fiat",
+    "price": "57000",
+    "age": 15,
+    "__v": 0
+  },
+  {
+    "_id": "62e4c87af8037d001c59e938",
+    "title": "Uno",
+    "brand": "Fiat",
+    "price": "57000",
+    "age": 15,
+    "__v": 0
+  },
+  {
+    "_id": "62e4c8aef8037d001c59e939",
+    "title": "Uno",
+    "brand": "Fiat",
+    "price": "57000",
+    "age": 15,
+    "__v": 0
+  },
+  {
+    "_id": "62e57067f8037d001c59e93a",
+    "title": "Fusca",
+    "brand": "Volkswagen",
+    "price": "5000",
+    "age": 1980,
+    "__v": 0
+  },
+  {
+    "_id": "62e5a9c6f8037d001c59e99b",
+    "title": "Civic",
+    "brand": "Honda",
+    "price": "200000",
+    "age": 2,
+    "__v": 0
+  },
+  {
+    "_id": "62e5aa0cf8037d001c59e99d",
+    "title": "Civic",
+    "brand": "Honda",
+    "price": "200000",
+    "age": 2,
+    "__v": 0
+  },
+  {
+    "_id": "62e5aa12f8037d001c59e99f",
+    "title": "Civic",
+    "brand": "Honda",
+    "price": "200000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e5aa27f8037d001c59e9a1",
+    "title": "Civic",
+    "brand": "Honda",
+    "price": "200000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e5aa28f8037d001c59e9a3",
+    "title": "Civic",
+    "brand": "Honda",
+    "price": "200000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e5aa39f8037d001c59e9a6",
+    "title": "Civic",
+    "brand": "Honda",
+    "price": "200000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e5aa55f8037d001c59e9a8",
+    "title": "Civic",
+    "brand": "Honda",
+    "price": "200000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e5ac66f8037d001c59e9a9",
+    "title": "Civic",
+    "brand": "Honda",
+    "price": "200000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e5ac83f8037d001c59e9aa",
+    "title": "Civic",
+    "brand": "Honda",
+    "price": "200000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e5aeaaf8037d001c59e9ab",
+    "title": "Civic",
+    "brand": "Honda",
+    "price": "200000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e5aeacf8037d001c59e9ac",
+    "title": "Civic",
+    "brand": "Honda",
+    "price": "200000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e5af83f8037d001c59e9ad",
+    "title": "Civic",
+    "brand": "Honda",
+    "price": "200000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e5af85f8037d001c59e9ae",
+    "title": "Civic",
+    "brand": "Honda",
+    "price": "200000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e5af87f8037d001c59e9af",
+    "title": "Civic",
+    "brand": "Honda",
+    "price": "200000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e5df4af8037d001c59e9b0",
+    "title": "Fusca",
+    "brand": "Volkswagen",
+    "price": "5000",
+    "age": 1980,
+    "__v": 0
+  },
+  {
+    "_id": "62e5e2cbf8037d001c59e9b8",
+    "title": "Fusca",
+    "brand": "Volkswagen",
+    "price": "5000",
+    "age": 1980,
+    "__v": 0
+  },
+  {
+    "_id": "62e5e3cef8037d001c59e9b9",
+    "title": "Fusca",
+    "brand": "Volkswagen",
+    "price": "5000",
+    "age": 1980,
+    "__v": 0
+  },
+  {
+    "_id": "62e5e3f7f8037d001c59e9ba",
+    "title": "Fusca",
+    "brand": "Volkswagen",
+    "price": "5000",
+    "age": 1980,
+    "__v": 0
+  },
+  {
+    "_id": "62e5e426f8037d001c59e9bb",
+    "title": "Fusca",
+    "brand": "Volkswagen",
+    "price": "5000",
+    "age": 1980,
+    "__v": 0
+  },
+  {
+    "_id": "62e5e42ff8037d001c59e9bc",
+    "title": "Fusca",
+    "brand": "Volkswagen",
+    "price": "5000",
+    "age": 1980,
+    "__v": 0
+  },
+  {
+    "_id": "62e5e43ff8037d001c59e9be",
+    "title": "Gol",
+    "brand": "VW",
+    "price": "R$30000",
+    "age": 1,
+    "__v": 0
+  },
+  {
+    "_id": "62e5e47ef8037d001c59e9c0",
+    "title": "XC90 ",
+    "brand": "Volvo",
+    "price": "R$300000",
+    "age": 2,
+    "__v": 0
+  },
+  {
+    "_id": "62e5e5d4f8037d001c59e9c2",
+    "title": "Astra",
+    "brand": "Volkswagen",
+    "price": "15000",
+    "age": 1999,
+    "__v": 0
+  },
+  {
+    "_id": "62e5e65ff8037d001c59e9c3",
+    "title": "Astra",
+    "brand": "Volkswagen",
+    "price": "15000",
+    "age": 1999,
+    "__v": 0
+  },
+  {
+    "_id": "62e5e663f8037d001c59e9c4",
+    "title": "Astra",
+    "brand": "Volkswagen",
+    "price": "15000",
+    "age": 1999,
+    "__v": 0
+  },
+  {
+    "_id": "62e5e70de7f81a729e768774",
+    "title": "XC90 ",
+    "brand": "Volvo",
+    "price": "R$300000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e5e71ef8037d001c59e9c6",
+    "title": "Astra",
+    "brand": "Volkswagen",
+    "price": "15000",
+    "age": 1999,
+    "__v": 0
+  },
+  {
+    "_id": "62e5e740f8037d001c59e9c8",
+    "title": "Astra",
+    "brand": "Volkswagen",
+    "price": "15000",
+    "age": 1999,
+    "__v": 0
+  },
+  {
+    "_id": "62e5e740f8037d001c59e9ca",
+    "title": "Astra",
+    "brand": "Volkswagen",
+    "price": "15000",
+    "age": 1999,
+    "__v": 0
+  },
+  {
+    "_id": "62e5e792f8037d001c59e9cc",
+    "title": "Astra",
+    "brand": "Volkswagen",
+    "price": "15000",
+    "age": 1999,
+    "__v": 0
+  },
+  {
+    "_id": "62e5e7bed35a036d607792f6",
+    "title": "XC90 ",
+    "brand": "Volvo",
+    "price": "R$300000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e5e7e0f8037d001c59e9ce",
+    "title": "Astra",
+    "brand": "Volkswagen",
+    "price": "15000",
+    "age": 1999,
+    "__v": 0
+  },
+  {
+    "_id": "62e5e889d35a036d607792f7",
+    "title": "XC90 ",
+    "brand": "Volvo",
+    "price": "R$300000",
+    "age": 2022,
+    "__v": 0
+  },
+  {
+    "_id": "62e5ea66f8037d001c59e9d0",
+    "title": "Astra",
+    "brand": "Volkswagen",
+    "price": "15000",
+    "age": 1999,
+    "__v": 0
+  }
+]
