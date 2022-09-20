@@ -10,6 +10,9 @@ ou
 => npm install
 => npm dev
 
+usuario : usuario@teste.com.br
+senha : 123456
+
 # Funcionalidades
 
 => Consultar a API http://api-test.bhut.com.br:3000/api/cars
